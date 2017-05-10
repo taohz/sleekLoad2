@@ -104,8 +104,11 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Come join us at www.aceroleplay.org"
+"Use @ to report players to staff"
+"Use drugs to your advantage when raiding"
+"The printers are powered by the generator"
+"Want high powered weapons? Find a Black Market Dealer"
 ];
 
 /*Random message order?*/
